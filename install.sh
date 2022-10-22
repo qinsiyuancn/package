@@ -1,0 +1,3 @@
+echo qinsiyuan
+pwd
+ls
